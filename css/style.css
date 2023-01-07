@@ -85,6 +85,9 @@
     font-size: 16px;
     color: #444343;
 }
+.list-of-failures li{
+    list-style: none;
+}
 
 /* plans-container */
 .plans {
@@ -173,7 +176,7 @@
 
 .final-container {
     display: flex;
-    gap: 50px;
+    gap: 200px;
     margin: 0px 40px;
 }
 
@@ -218,7 +221,7 @@ h7 {
     border-radius: 4px;
 }
 
-.btn3 {
+.btn2 {
     padding: 20px;
     color: darkslategray;
     font-weight: 600;
