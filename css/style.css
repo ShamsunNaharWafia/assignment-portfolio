@@ -54,12 +54,6 @@
 
 }
 
-/* .banner-person {
-    background-position: center;
-    background-repeat: no-repeat; 
-   margin: 100px 0px;
-   min-height: 300px;
-} */
 
 .failures .failure-title {
     /* margin-top: 200px; */
@@ -71,8 +65,6 @@
 .failures .failure-description {
     text-align: justify;
     padding-right: 100px;
-    /* margin-left: 250px;
-    margin-right: 180px; */
     padding-top: 24px;
     padding-bottom: 16px;
     font-weight: 400;
@@ -85,14 +77,15 @@
     font-size: 16px;
     color: #444343;
 }
-.list-of-failures li{
+
+.list-of-failures li {
     list-style: none;
 }
 
 /* plans */
 .plans {
     margin: 110px;
-    margin-left:250px;
+    margin-left: 250px;
 
 }
 
@@ -105,7 +98,7 @@
 .plan-container {
     display: flex;
     gap: 50px;
-    margin-right:150px;
+    margin-right: 150px;
 }
 
 .plan-title {
@@ -114,7 +107,7 @@
     line-height: 35px;
     text-align: center;
     padding: 16px 0px;
-    
+
 }
 
 .title-description {
@@ -124,13 +117,13 @@
     color: #737272;
 }
 
- 
 .plan-container .plan-list {
-    padding: 50px 20px ;
+    padding: 50px 20px;
 }
-.plan-list .plan-image{
-    padding-right: 60px ;
-    padding-left: 40px ;
+
+.plan-list .plan-image {
+    padding-right: 60px;
+    padding-left: 40px;
 }
 
 /* linear */
