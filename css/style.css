@@ -89,7 +89,7 @@
     list-style: none;
 }
 
-/* plans-container */
+/* plans */
 .plans {
     margin: 110px;
     margin-left:250px;
@@ -128,8 +128,9 @@
 .plan-container .plan-list {
     padding: 50px 20px ;
 }
-.plan-image{
-    padding-right: 70px ;
+.plan-list .plan-image{
+    padding-right: 60px ;
+    padding-left: 40px ;
 }
 
 /* linear */
@@ -198,22 +199,22 @@ h7 {
     margin-right: 18px;
 }
 
-.subscrip {
+.subscription {
     padding-right: 200px;
 
 }
 
-.subscrip .subscrip-title {
+.subscription .subscription-title {
     font-weight: 600;
     font-size: 40px;
 }
 
-.subscrip form {
+.subscription form {
     padding: 20px 0px;
     border: none;
 }
 
-.subscrip form input {
+.subscription form input {
     height: 35px;
     padding: 0px 10px;
     background-color: black;
